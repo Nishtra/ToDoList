@@ -1,0 +1,10 @@
+.toDoItem {
+    border-radius: 20px;
+    border: 1px solid gray;
+    margin: 5px 0;
+    padding: 20px;
+}
+
+.toDoItem > h3 {
+    margin-top: 0;
+}
